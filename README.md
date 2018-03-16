@@ -1,8 +1,10 @@
+**database-wrapper** is a easy-to-use PDO wrapper for PHP 7.0 or higher.
+
 ## Installation
 
-Database-wrapper is available as `dengsn/database-wrapper` in the packagist repository. If you're using Composer this is the preferred way of installing the library. Alternatively you can download the source code directly.
+database-wrapper is best installed using Composer. The library is found as `dengsn/database-wrapper` in the Packagist repository. If your project does not use composer, you can download the latest release or the dev-master branch as an archive.
 
-## Using the wrapper
+## Usage
 
 ### Creating a new instance
 
